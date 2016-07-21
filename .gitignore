@@ -3,6 +3,7 @@ logs
 *.log
 npm-debug.log*
 /public/libs/*
+!/public/libs/.gitkeep
 
 # Runtime data
 pids
