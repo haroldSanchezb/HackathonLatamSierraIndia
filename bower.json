@@ -1,0 +1,20 @@
+{
+  "name": "hackathonsierraindia",
+  "description": "Un Juego WebRTC con PeerJS y Phaser",
+  "main": "",
+  "authors": [
+    "Sierra India"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haroldSanchezb/HackathonSierraIndia",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "peerjs": "^0.3.14"
+  }
+}
